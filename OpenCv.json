@@ -1,0 +1,160 @@
+{
+  "PersonalInformation": {
+    "Languages": ["en", "fr"],
+    "FirstName": {
+      "en": "",
+      "fr": ""
+    },
+    "LastName": {
+      "en": "",
+      "fr": ""
+    },
+    "ContactDetails": {
+      "en": "",
+      "fr": ""
+    }
+  },
+  "CareerObjective": {
+    "en": "",
+    "fr": ""
+  },
+  "Summary": {
+    "en": "",
+    "fr": ""
+  },
+  "WorkExperience": [
+    {
+      "Languages": ["en", "fr"],
+      "Employer": {
+        "en": "",
+        "fr": ""
+      },
+      "JobTitle": {
+        "en": "",
+        "fr": ""
+      },
+      "Responsibilities": {
+        "en": "",
+        "fr": ""
+      },
+      "Achievements": {
+        "en": "",
+        "fr": ""
+      },
+      "StartDate": "",
+      "EndDate": ""
+    }
+  ],
+  "Education": [
+    {
+      "Languages": ["en", "fr"],
+      "Institution": {
+        "en": "",
+        "fr": ""
+      },
+      "Degree": {
+        "en": "",
+        "fr": ""
+      },
+      "StartDate": "",
+      "EndDate": ""
+    }
+  ],
+  "Skills": {
+    "Languages": ["en", "fr"],
+    "Technical": {
+      "en": [],
+      "fr": []
+    },
+    "Soft": {
+      "en": [],
+      "fr": []
+    }
+  },
+  "Certifications": [
+    {
+      "Languages": ["en", "fr"],
+      "Name": {
+        "en": "",
+        "fr": ""
+      },
+      "DateObtained": ""
+    }
+  ],
+  "Projects": [
+    {
+      "Languages": ["en", "fr"],
+      "Name": {
+        "en": "",
+        "fr": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": ""
+      },
+      "Technologies": {
+        "en": [],
+        "fr": []
+      }
+    }
+  ],
+  "Languages": [
+    {
+      "Language": "",
+      "Proficiency": {
+        "en": "",
+        "fr": ""
+      }
+    }
+  ],
+  "References": [
+    {
+      "Languages": ["en", "fr"],
+      "Name": {
+        "en": "",
+        "fr": ""
+      },
+      "Relationship": {
+        "en": "",
+        "fr": ""
+      },
+      "Contact": {
+        "en": "",
+        "fr": ""
+      }
+    }
+  ],
+  "Publications": [
+    {
+      "Languages": ["en", "fr"],
+      "Title": {
+        "en": "",
+        "fr": ""
+      },
+      "Link": ""
+    }
+  ],
+  "Awards": [
+    {
+      "Languages": ["en", "fr"],
+      "Name": {
+        "en": "",
+        "fr": ""
+      },
+      "Date": ""
+    }
+  ],
+  "Hobbies": {
+    "en": [],
+    "fr": []
+  },
+  "Links": {
+    "Portfolio": "",
+    "LinkedIn": "",
+    "GitHub": ""
+  },
+  "Other": {
+    "en": "",
+    "fr": ""
+  }
+}
